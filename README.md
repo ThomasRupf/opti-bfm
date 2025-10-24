@@ -60,3 +60,16 @@ Set `agent.zsrl=True` if you want them to use the provided labelled dataset to w
 
 #### D-Gap Thresholding
 You can control aquisition of `ucb` and `ts` by setting its threshold `agent.kappa` for the D-gap to a positive value.
+
+---
+```
+@misc{rupf2025optimistictaskinferencebehavior,
+      title={Optimistic Task Inference for Behavior Foundation Models}, 
+      author={Thomas Rupf and Marco Bagatella and Marin Vlastelica and Andreas Krause},
+      year={2025},
+      eprint={2510.20264},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2510.20264}, 
+}
+```
